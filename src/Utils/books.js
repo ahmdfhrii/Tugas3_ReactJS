@@ -61,7 +61,7 @@ const books = [
     title: "Pulang",
     author: "Tere Liye",
     year: 2021,
-    description: "Deskripsi buku ke-8...",
+    description: "Buku novel yang berjudul Pulang ini merupakan karya dari penulis novel yang banyak digemari karya-karyanya, yaitu Tere Liye. Novel ini dapat dinikmati oleh pembaca baik di kalangan remaja maupun orang dewasa.",
     image: "https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/items/pulang_tere_liye.jpeg"
   },
   {
@@ -69,7 +69,7 @@ const books = [
     title: "Hujan",
     author: "Tere Liye",
     year: 2022,
-    description: "Deskripsi buku ke-9...",
+    description: "Novel Hujan merupakan novel yang mengisahkan kisah cinta serta perjuangan hidup Lail. Saat usianya baru menginjak 13 tahun, Lail menjadi seorang yatim piatu akibat ayah dan ibu Lail yang terkena letusan Gunung Api Purba dan gempa yang membuat kota tempat mereka tinggal hancur.",
     image: "https://image.gramedia.net/rs:fit:0:0/plain/https://cdn.gramedia.com/uploads/items/img20220905_11493451.jpg"
   }
 ];
